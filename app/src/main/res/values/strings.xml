@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SimpleMockito</string>
     <string name="hello_word">Hello World</string>
+    <string name="bye_word">Bye world</string>
 </resources>
